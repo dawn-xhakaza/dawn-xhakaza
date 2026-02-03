@@ -7,9 +7,8 @@ Born and Raised in South Africa in a small town called Newlands East in the city
 
 - 🔭 I’m currently working on Product testing , Verify branding & general usability , Bug Hunting , Shadowing a Developer , User testing  
 - 🌱 I’m currently learning how to be flexible in the Software development environment  
-- 📫 You can reach me on my ()[]   
+- 📫 You can reach me on my Linkedin Account   
 - 😄 Pronouns: She/her
-- ⚡Educations: Bachelors Science of Information Technology Degree
-- 
+- ⚡Education: Bachelors Science of Information Technology Degree
 - 📑 Skills & Tools: PYTHON , C++ , SQL , JAVA , DOCKER , GIT COMMANDS , LINUX , SHH , CURL , PHP , CSS , REST API, KANBAN ,  MARKDOWN , GIT BRANCHING , POSTMAN , SEMANTIC VERSIONING , SOFTWARE TESTING , 12 FACTOR APP , CONTAINERISATION , YAML , HTTP STATUS CODES , GIT MERGE , JSON 
 
